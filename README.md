@@ -1,18 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZQQhHp7h)
 # Assignment3
 
-# CMPUT 291 Mini Project 1 -Fall 2024
-Group member names and ccids (3-4 members)  
-  luke5, Luke Thomas  
-  yuheng20, Yuheng Li  
-  anant5, Anant Gupta
-  gurbaaz, Gurbaaz Gill
-
-# Group work break-down strategy
-Luke Thomas - Part 1 (tweet_search.py), database creation and readme file
-Yuheng Li - Part 4 (follower_utils.py), common_utils.py, pdf file and edits
-Anant Gupta - Login, Part 2 (search_users.py), main.py creation, optimization of different parts and documentation/edits
-Gurbaaz Gill - Logout, Part 3 (compose_tweet.py), optimization of different parts and documentation/edits
 
 # Code execution guide
 Open the terminal and direct to the folder that contains the source code and database. 
